@@ -5,6 +5,8 @@
 #include "twomodule.h"
 #include "windows.h"
 #include "rapidxml.hpp"
+#include "linux/kernel.h"
+#include "linux/module.h"
 #include <vector>
 #include <fstream>
 #include <string>
