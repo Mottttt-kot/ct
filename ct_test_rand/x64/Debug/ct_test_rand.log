@@ -1,0 +1,3 @@
+﻿  ct_test_rand.cpp
+G:\Vs Code\ct_test_rand\ct_test_rand.cpp(23,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ct_test_rand.vcxproj -> G:\Vs Code\ct_test_rand\x64\Debug\ct_test_rand.exe

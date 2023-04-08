@@ -1,0 +1,8 @@
+﻿  twomodule.cpp
+G:\Vs Code\CT_test\twomodule.cpp(63,18): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода
+  1 of 588 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CT_test.vcxproj -> G:\Vs Code\CT_test\x64\Release\CT_test.exe

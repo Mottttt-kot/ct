@@ -1,0 +1,5 @@
+﻿  CT_test.cpp
+  twomodule.cpp
+G:\Vs Code\CT_test\twomodule.cpp(61,24): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  CT_test.vcxproj -> G:\Vs Code\CT_test\x64\Debug\CT_test.exe
